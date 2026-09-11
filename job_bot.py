@@ -181,8 +181,8 @@ def run_job_scraper():
     finally:
         if driver: driver.quit()
 
-    # ==========================================
-    # 2. XPRESSJOBS (අලුත් ලින්ක් රටාවට හැදුවා - GitHub Fix)
+  # ==========================================
+    # 2. XPRESSJOBS (Bot Protection Bypass)
     # ==========================================
     print("\n🔍 XpressJobs පරීක්ෂා කරයි...")
     driver = None
@@ -190,21 +190,24 @@ def run_job_scraper():
         driver = get_chrome_driver()
         driver.get("https://xpress.jobs/jobs")
         
-        # 🔴 GitHub සර්වර් එක ස්ලෝ නිසා ලෝඩ් වෙන්න තත්පර 12ක් දෙනවා
-        time.sleep(12) 
+        # 🔴 සිකියුරිටි එකෙන් පනින්න කරන ට්‍රික් එක
+        time.sleep(6)
+        driver.refresh() # පිටුව ආයේ රීෆ්‍රෙෂ් කරනවා (බොට් චෙක් එක අයින් වෙන්න)
+        time.sleep(8)
+        driver.execute_script("window.scrollTo(0, 1500);") # පල්ලෙහාට ස්ක්‍රෝල් කරනවා
+        time.sleep(5)
         
         found_xpress = []
         links = driver.find_elements(By.TAG_NAME, "a")
-        print(f"XpressJobs පිටුවෙන් මුළු ලින්ක් {len(links)} ක් හම්බුණා. ෆිල්ටර් කරමින්...") # 🔴 Debug මැසේජ් එක
+        print(f"XpressJobs පිටුවෙන් මුළු ලින්ක් {len(links)} ක් හම්බුණා. ෆිල්ටර් කරමින්...")
         
         for link in links:
             try:
                 href = str(link.get_attribute("href"))
                 title = link.text.strip()
                 
-                # 🔴 ලින්ක් චෙක් කරන එක තවත් ලේසි කළා (බොරු ලින්ක් අයින් වෙන්න)
                 if "/jobs/" in href and "xpress.jobs" in href and len(href.split("/")) > 4:
-                    if href == "https://xpress.jobs/jobs": continue # මුල් පිටුව අතාරිනවා
+                    if href == "https://xpress.jobs/jobs": continue
                     
                     if not title or len(title) < 5:
                         title = href.split('/')[-1].replace('-', ' ').title()
@@ -214,7 +217,7 @@ def run_job_scraper():
                             found_xpress.append({'title': title, 'link': href})
             except: continue
             
-        print(f"අලුත් XpressJobs ජොබ්ස් {len(found_xpress)} ක් හොයාගත්තා!") # 🔴 Debug මැසේජ් එක
+        print(f"අලුත් XpressJobs ජොබ්ස් {len(found_xpress)} ක් හොයාගත්තා!")
             
         for job in found_xpress[:2]:
             if is_post_safe(job['title'], job['link']):
