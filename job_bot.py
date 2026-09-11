@@ -182,33 +182,39 @@ def run_job_scraper():
         if driver: driver.quit()
 
     # ==========================================
-    # 2. XPRESSJOBS (අලුත් ලින්ක් රටාවට හැදුවා)
+    # 2. XPRESSJOBS (අලුත් ලින්ක් රටාවට හැදුවා - GitHub Fix)
     # ==========================================
     print("\n🔍 XpressJobs පරීක්ෂා කරයි...")
     driver = None
     try:
         driver = get_chrome_driver()
         driver.get("https://xpress.jobs/jobs")
-        time.sleep(5)
+        
+        # 🔴 GitHub සර්වර් එක ස්ලෝ නිසා ලෝඩ් වෙන්න තත්පර 12ක් දෙනවා
+        time.sleep(12) 
+        
         found_xpress = []
         links = driver.find_elements(By.TAG_NAME, "a")
+        print(f"XpressJobs පිටුවෙන් මුළු ලින්ක් {len(links)} ක් හම්බුණා. ෆිල්ටර් කරමින්...") # 🔴 Debug මැසේජ් එක
+        
         for link in links:
             try:
                 href = str(link.get_attribute("href"))
                 title = link.text.strip()
                 
-                # XpressJobs අලුත් ලින්ක් වල /view/ නෑ. ඒක /jobs/12345/title විදිහට තියෙන්නේ.
-                if "xpress.jobs/jobs/" in href and href != "https://xpress.jobs/jobs":
+                # 🔴 ලින්ක් චෙක් කරන එක තවත් ලේසි කළා (බොරු ලින්ක් අයින් වෙන්න)
+                if "/jobs/" in href and "xpress.jobs" in href and len(href.split("/")) > 4:
+                    if href == "https://xpress.jobs/jobs": continue # මුල් පිටුව අතාරිනවා
                     
-                    # සමහරවිට title එක හිස් නම් ලින්ක් එකෙන් title එක හදාගන්නවා
                     if not title or len(title) < 5:
-                        # ලින්ක් එකේ අග තියෙන 'graphic-designer' වගේ කෑල්ල අරන් ලස්සන කරනවා
                         title = href.split('/')[-1].replace('-', ' ').title()
                         
                     if len(title) > 5 and href not in seen_jobs_global:
                         if href not in [j['link'] for j in found_xpress]:
                             found_xpress.append({'title': title, 'link': href})
             except: continue
+            
+        print(f"අලුත් XpressJobs ජොබ්ස් {len(found_xpress)} ක් හොයාගත්තා!") # 🔴 Debug මැසේජ් එක
             
         for job in found_xpress[:2]:
             if is_post_safe(job['title'], job['link']):
