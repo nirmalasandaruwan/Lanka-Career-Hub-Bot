@@ -155,3 +155,7 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000094&jc=0001546
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001546876&ec=DEFZZZ
 https://jobvacanciesinsl.blogspot.com/2026/09/trainee-fintrex-finance-plc.html
 https://jobvacanciesinsl.blogspot.com/2026/09/junior-executive-digital-marketing_0453072562.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001547053&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000379&jc=0001547052&ec=0000000715
+https://jobvacanciesinsl.blogspot.com/2026/09/retail-sales-associate-senior-retail_01049299452.html
+https://jobvacanciesinsl.blogspot.com/2026/09/fd-savings-officer-merchant-bank-of-sri_0193379374.html
