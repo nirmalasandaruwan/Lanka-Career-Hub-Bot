@@ -211,3 +211,7 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000385&jc=0001548
 https://jobvacanciesinsl.blogspot.com/2026/09/area-sales-manager-north-region-little.html
 https://jobvacanciesinsl.blogspot.com/2026/09/intern-finance-brandix-lanka-limited.html
 https://www.plusinfo.lk/2026/09/inspector-of-customs-exam-vacancies.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001547734&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000038&jc=0001548122&ec=0000000038
+https://jobvacanciesinsl.blogspot.com/2026/09/it-support-desk-school-leaver-nawaloka.html
+https://jobvacanciesinsl.blogspot.com/2026/09/executive-digital-analytics-sdb-bank.html
