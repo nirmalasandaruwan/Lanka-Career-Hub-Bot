@@ -215,3 +215,7 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001547734&
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000038&jc=0001548122&ec=0000000038
 https://jobvacanciesinsl.blogspot.com/2026/09/it-support-desk-school-leaver-nawaloka.html
 https://jobvacanciesinsl.blogspot.com/2026/09/executive-digital-analytics-sdb-bank.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000039&jc=0001548235&ec=0000000039
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001548234&ec=DEFZZZ
+https://jobvacanciesinsl.blogspot.com/2026/09/junior-management-associate-it-ndb.html
+https://jobvacanciesinsl.blogspot.com/2026/09/senior-banking-assistant-marketing.html
