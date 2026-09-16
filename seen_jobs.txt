@@ -229,3 +229,6 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000075&jc=0001548
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001548522&ec=DEFZZZ
 https://jobvacanciesinsl.blogspot.com/2026/09/senior-executive-insuarance-management.html
 https://jobvacanciesinsl.blogspot.com/2026/09/teller-negombo-branch-softlogic-finance.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001549163&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000026&jc=0001549162&ec=0000000026
+https://www.plusinfo.lk/2026/09/ceylon-shipping-corporation-ltd-csc.html
