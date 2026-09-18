@@ -255,3 +255,8 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000094&jc=0001549
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000094&jc=0001549679&ec=0000000111
 https://www.colombojobs.lk/2026/09/personal-driver-rush-lanka-group.html
 https://www.plusinfo.lk/2026/09/mba-2026-in-jaffna-university-master-of.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001549850&ec=DEFZZZ
+https://jobvacanciesinsl.blogspot.com/2026/09/main-cashier-school-leaver-arpico.html
+https://jobvacanciesinsl.blogspot.com/2026/09/trainee-customer-experience-associate.html
+https://jobvacanciesinsl.blogspot.com/2026/09/senior-executive-executive-hr-sdb-bank.html
+https://jobvacanciesinsl.blogspot.com/2026/09/finance-executive-junior-executive.html
