@@ -307,3 +307,5 @@ https://www.plusinfo.lk/2026/09/all-ceylon-jamiyyathul-ulama-acju-job.html
 https://www.rajayejobs.com/2026/09/laboratory-attendant-institute-of.html
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000421&jc=0001549673&ec=0000000555
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000421&jc=0001549670&ec=0000000555
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001550603&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001550602&ec=DEFZZZ
