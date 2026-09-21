@@ -309,3 +309,14 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000421&jc=0001549
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000421&jc=0001549670&ec=0000000555
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001550603&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001550602&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000261&jc=0001550878&ec=0000000428
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000261&jc=0001550877&ec=0000000428
+https://www.colombojobs.lk/2026/09/assistant-chef-commi-3-chimneys-pvt-ltd.html
+https://jobvacanciesinsl.blogspot.com/2026/09/customer-support-associate-simplebooks.html
+https://jobvacanciesinsl.blogspot.com/2026/09/trainee-marketing-executive-micro-small.html
+https://jobvacanciesinsl.blogspot.com/2026/09/assistant-quality-controllers-tokyo.html
+https://jobvacanciesinsl.blogspot.com/2026/09/driver-ceylon-biscuits-limited.html
+https://www.plusinfo.lk/2026/09/sri-lanka-co-operative-marketing.html
+https://www.plusinfo.lk/2026/09/gce-ol-exam-paper-marking-examiner.html
+https://www.plusinfo.lk/2026/09/airport-aviation-services-aasl-job.html
+https://www.plusinfo.lk/2026/09/welfare-benefits-board-wbb-job.html
