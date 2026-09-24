@@ -361,3 +361,5 @@ https://www.plusinfo.lk/2026/09/tertiary-vocational-education.html
 https://www.rajayejobs.com/2026/09/management-service-officers-mso-central.html
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000094&jc=0001551938&ec=0000000111
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000094&jc=0001551937&ec=0000000111
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001552145&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000049&jc=0001552144&ec=0000000668
