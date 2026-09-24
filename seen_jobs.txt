@@ -363,3 +363,6 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000094&jc=0001551
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000094&jc=0001551937&ec=0000000111
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001552145&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000049&jc=0001552144&ec=0000000668
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000385&jc=0001552468&ec=0000000505
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000385&jc=0001552467&ec=0000000505
+https://jobvacanciesinsl.blogspot.com/2026/09/hr-assistant-hr-officer-lb-finance-plc.html
