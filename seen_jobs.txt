@@ -366,3 +366,9 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000049&jc=0001552
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000385&jc=0001552468&ec=0000000505
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000385&jc=0001552467&ec=0000000505
 https://jobvacanciesinsl.blogspot.com/2026/09/hr-assistant-hr-officer-lb-finance-plc.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=0000000385&jc=0001552466&ec=0000000505
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=0000000413&jc=0001552465&ec=0000000542
+https://www.colombojobs.lk/2026/09/secretary-to-director.html
+https://www.colombojobs.lk/2026/09/construction-operations-manager-rush.html
+https://www.plusinfo.lk/2026/09/wariyapola-co-operative-society-mpcs.html
+https://www.plusinfo.lk/2026/09/hdfc-bank-job-vacancies-2026-company.html
