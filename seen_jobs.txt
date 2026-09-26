@@ -383,3 +383,6 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000440&jc=0001553
 https://www.plusinfo.lk/2026/09/lanka-electricity-company-pvt-ltd-leco.html
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001553093&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001553092&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=DEFZZZ&jc=0001553091&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=DEFZZZ&jc=0001553090&ec=DEFZZZ
+https://www.plusinfo.lk/2026/09/gce-ol-exam-re-correction-results.html
