@@ -388,3 +388,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=DEFZZZ&jc=0001553090&
 https://www.plusinfo.lk/2026/09/gce-ol-exam-re-correction-results.html
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000029&jc=0001553101&ec=0000000029
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000029&jc=0001553100&ec=0000000029
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000094&jc=0001553109&ec=0000000111
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000094&jc=0001553108&ec=0000000111
