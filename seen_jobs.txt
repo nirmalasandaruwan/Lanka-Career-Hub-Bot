@@ -406,3 +406,5 @@ https://www.plusinfo.lk/2026/09/janatha-estates-development-board-jedb.html
 https://www.plusinfo.lk/2026/09/national-building-research-institute.html
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=0000000049&jc=0001553588&ec=0000000503
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=0000000049&jc=0001553587&ec=0000000503
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001553801&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000240&jc=0001553800&ec=0000000293
