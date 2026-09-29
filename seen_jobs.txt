@@ -408,3 +408,9 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=0000000049&jc=0001553
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=0000000049&jc=0001553587&ec=0000000503
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001553801&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000240&jc=0001553800&ec=0000000293
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000352&jc=0001554048&ec=0000000467
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000385&jc=0001554047&ec=0000000505
+https://www.colombojobs.lk/2026/09/head-of-sales-rush-lanka-group.html
+https://jobvacanciesinsl.blogspot.com/2026/09/sales-assistant-dsi-samson-group.html
+https://jobvacanciesinsl.blogspot.com/2026/09/it-executive-virtualization-cloud.html
+https://www.rajayejobs.com/2026/09/driver-commission-to-investigate.html
