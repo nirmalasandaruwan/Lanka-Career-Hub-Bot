@@ -418,3 +418,10 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001552857&
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000019&jc=0001541836&ec=0000000019
 https://jobvacanciesinsl.blogspot.com/2026/09/trainee-banking-assistant-banking.html
 https://jobvacanciesinsl.blogspot.com/2026/09/intern-finance-hemas-holdings-plc.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000023&jc=0001554209&ec=0000000023
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000023&jc=0001554208&ec=0000000023
+https://jobvacanciesinsl.blogspot.com/2026/09/assistant-human-resources-operations.html
+https://jobvacanciesinsl.blogspot.com/2026/09/intern-logistics-keells-food-products.html
+https://jobvacanciesinsl.blogspot.com/2026/09/management-trainee-for-keells-outlet.html
+https://www.plusinfo.lk/2026/09/agriculture-irrigation-ministry-job.html
+https://www.plusinfo.lk/2026/09/principals-service-slps-1st-2nd-eb-exam.html
