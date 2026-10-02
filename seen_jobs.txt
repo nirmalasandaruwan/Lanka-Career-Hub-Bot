@@ -450,3 +450,9 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000223&jc=0001555
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000223&jc=0001555187&ec=0000000266
 https://www.colombojobs.lk/2026/10/safety-officer-rush-lanka-group.html
 https://www.rajayejobs.com/2026/10/it-technician-support-central-bank-of.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001555641&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001555640&ec=DEFZZZ
+https://www.plusinfo.lk/2026/10/indian-bank-job-vacancies-2026-banking.html
+https://www.plusinfo.lk/2026/10/national-unity-reconciliation-office.html
+https://www.plusinfo.lk/2026/10/sri-lanka-inventors-commission-slic.html
+https://www.plusinfo.lk/2026/10/health-employees-co-operative-society.html
