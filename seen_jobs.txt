@@ -471,3 +471,7 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000160&jc=0001555
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001555368&ec=DEFZZZ
 https://jobvacanciesinsl.blogspot.com/2026/10/branch-executive-central-finance.html
 https://jobvacanciesinsl.blogspot.com/2026/10/junior-executive-private-banking-pan.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000094&jc=0001555675&ec=0000000111
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000094&jc=0001555674&ec=0000000111
+https://jobvacanciesinsl.blogspot.com/2026/10/chief-financial-officer-dgm-finance.html
+https://jobvacanciesinsl.blogspot.com/2026/10/store-clerks-trainee-damro.html
