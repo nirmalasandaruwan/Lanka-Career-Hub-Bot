@@ -493,3 +493,5 @@ https://www.plusinfo.lk/2026/10/peoples-bank-manager-reconciliation.html
 https://www.plusinfo.lk/2026/10/transport-ministry-rda-vacancies-2026.html
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001554030&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001551511&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000311&jc=0001556636&ec=0000000410
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000094&jc=0001556635&ec=0000000111
