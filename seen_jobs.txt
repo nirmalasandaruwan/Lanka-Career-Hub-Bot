@@ -500,3 +500,6 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000311&jc=0001556
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001556847&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000178&jc=0001556846&ec=0000000213
 https://www.rajayejobs.com/2026/10/primary-skilled-service-category-pl-3.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000385&jc=0001557170&ec=0000000505
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000280&jc=0001557169&ec=0000000367
+https://www.colombojobs.lk/2026/10/receptionist-trainee-ebato-travels-pvt.html
