@@ -509,3 +509,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000419&jc=0001557
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001557404&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001553395&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000391&jc=0001557641&ec=0000000514
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=0000000049&jc=0001557640&ec=0000000315
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=0000000023&jc=0001557639&ec=0000000023
