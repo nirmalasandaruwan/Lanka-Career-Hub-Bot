@@ -511,3 +511,7 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001553395&
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000391&jc=0001557641&ec=0000000514
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=0000000049&jc=0001557640&ec=0000000315
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=0000000023&jc=0001557639&ec=0000000023
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000026&jc=0001557897&ec=0000000026
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001557896&ec=DEFZZZ
+https://www.plusinfo.lk/2026/10/land-reform-commission-lrc-job.html
+https://www.plusinfo.lk/2026/10/transport-ministry-rda-job-vacancies.html
