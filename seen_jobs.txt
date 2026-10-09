@@ -519,3 +519,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001558391&
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001558390&ec=DEFZZZ
 https://jobvacanciesinsl.blogspot.com/2026/10/junior-executive-finance-fintrex.html
 https://www.plusinfo.lk/2026/10/health-ministry-phsep-project-job.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001558407&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001558406&ec=DEFZZZ
