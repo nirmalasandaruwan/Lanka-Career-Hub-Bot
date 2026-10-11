@@ -537,3 +537,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000049&jc=0001558
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000261&jc=0001558424&ec=0000000320
 https://www.plusinfo.lk/2026/10/sri-lanka-telecom-slt-job-vacancies.html
 https://www.plusinfo.lk/2026/10/diploma-in-early-childhood-development.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000049&jc=0001558439&ec=0000000503
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000049&jc=0001558438&ec=0000000503
