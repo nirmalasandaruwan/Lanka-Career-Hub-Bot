@@ -563,3 +563,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000200&jc=0001559
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000200&jc=0001559135&ec=0000000236
 https://jobvacanciesinsl.blogspot.com/2026/10/walk-in-interviews-sarvodaya.html
 https://jobvacanciesinsl.blogspot.com/2026/10/junior-executive-talent-acquisition-pan.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001559342&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000205&jc=0001559420&ec=0000000245
