@@ -557,3 +557,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001553604&
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000389&jc=0001544516&ec=0000000512
 https://jobvacanciesinsl.blogspot.com/2026/10/secretarial-assistant-peoples-bank.html
 https://jobvacanciesinsl.blogspot.com/2026/10/documentation-assistant-dsi-samson-group.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000385&jc=0001558915&ec=0000000505
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000385&jc=0001558914&ec=0000000505
