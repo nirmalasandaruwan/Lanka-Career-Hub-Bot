@@ -570,3 +570,7 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=0000000073&jc=0001559
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001559562&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000261&jc=0001559873&ec=0000000441
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001559871&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000419&jc=0001559775&ec=0000000552
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000419&jc=0001559766&ec=0000000552
+https://www.rajayejobs.com/2026/10/assistant-technician-ceylon-petroleum.html
+https://www.rajayejobs.com/2026/10/management-assistant-quantity-surveyor.html
