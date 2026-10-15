@@ -580,3 +580,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000049&jc=0001560
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000049&jc=0001560316&ec=0000000315
 https://jobvacanciesinsl.blogspot.com/2026/10/trainee-stores-executives-management.html
 https://jobvacanciesinsl.blogspot.com/2026/10/cashier-ub-finance-company-limited.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000049&jc=0001560318&ec=0000000503
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000049&jc=0001560317&ec=0000000315
