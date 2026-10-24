@@ -708,3 +708,8 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001563661&
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001563660&ec=DEFZZZ
 https://www.plusinfo.lk/2026/10/nibm-job-vacancies-2026-receptionist.html
 https://www.plusinfo.lk/2026/10/slida-job-vacancies-2026-additional.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000023&jc=0001563687&ec=0000000023
+https://jobvacanciesinsl.blogspot.com/2026/10/information-technology-officer-milco.html
+https://jobvacanciesinsl.blogspot.com/2026/10/junior-associate-associate-building.html
+https://www.plusinfo.lk/2026/10/veterinary-research-officer-job.html
+https://www.plusinfo.lk/2026/10/railway-department-procurement-officer.html
