@@ -768,3 +768,4 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000421&jc=0001564
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000421&jc=0001564717&ec=0000000555
 https://www.plusinfo.lk/2026/10/eastern-provincial-school-teacher.html
 https://www.plusinfo.lk/2026/10/itn-jobs-2026-legal-transport-officers.html
+https://www.plusinfo.lk/2026/10/ancl-lake-house-job-vacancies-2026_01315046091.html
