@@ -792,3 +792,4 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000385&jc=0001565
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001565912&ec=DEFZZZ
 https://www.plusinfo.lk/2026/10/1990-suwa-seriya-free-ambulance-service_01423814031.html
 https://www.plusinfo.lk/2026/10/seylan-bank-graduate-internship-job.html
+https://www.plusinfo.lk/2026/10/government-gazette-paper-for-20261030.html
