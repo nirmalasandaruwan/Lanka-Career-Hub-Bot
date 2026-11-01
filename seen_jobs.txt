@@ -811,3 +811,4 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000389&jc=0001566
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000385&jc=0001566322&ec=0000000505
 https://www.plusinfo.lk/2026/11/rdb-bank-job-vacancies-2026-assistant.html
 https://www.plusinfo.lk/2026/11/lanka-phosphate-ltd-lpl-job-vacancies.html
+https://www.rajayejobs.com/2026/11/manager-accounts-officer-technical.html
