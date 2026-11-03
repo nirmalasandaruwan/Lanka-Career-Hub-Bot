@@ -835,3 +835,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001567093&
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001567092&ec=DEFZZZ
 https://www.plusinfo.lk/2026/11/western-province-mso-exam-vacancies.html
 https://www.plusinfo.lk/2026/11/north-western-province-mso-exam-jobs.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000385&jc=0001567356&ec=0000000505
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000385&jc=0001567355&ec=0000000505
