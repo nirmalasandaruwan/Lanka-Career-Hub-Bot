@@ -841,3 +841,13 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=0000000385&jc=0001567
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=0000000385&jc=0001567353&ec=0000000505
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001567598&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000247&jc=0001567597&ec=0000000300
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000094&jc=0001567831&ec=0000000111
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000094&jc=0001567830&ec=0000000111
+https://www.colombojobs.lk/2026/11/graphic-designer-emagewise-pvt-limited.html
+https://jobvacanciesinsl.blogspot.com/2026/11/trainee-banking-assistant-sanasa.html
+https://jobvacanciesinsl.blogspot.com/2026/11/business-development-executive-fd.html
+https://www.plusinfo.lk/2026/11/commercial-bank-job-vacancies-2026.html
+https://www.plusinfo.lk/2026/11/sri-lanka-thriposha-ltd-sltl-job.html
+https://www.plusinfo.lk/2026/11/southern-province-road-passenger.html
+https://www.plusinfo.lk/2026/11/government-factory-department-job.html
+https://www.rajayejobs.com/2026/11/examination-data-assistant-open.html
