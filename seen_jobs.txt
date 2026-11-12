@@ -928,3 +928,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000421&jc=0001570
 https://www.plusinfo.lk/2026/11/cooperative-development-officer-open.html
 https://www.plusinfo.lk/2026/11/all-island-services-common-competitive.html
 https://www.rajayejobs.com/2026/11/general-fitter-auto-fitter-technician.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=0000000421&jc=0001570900&ec=0000000555
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=0000000023&jc=0001570899&ec=0000000023
