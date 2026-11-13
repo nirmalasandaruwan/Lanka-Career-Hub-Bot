@@ -937,3 +937,5 @@ https://xpress.jobs/jobs/view/353138/account-manager-royal-ceramics-lanka-plc
 https://www.plusinfo.lk/2026/11/transport-urban-development-ministry.html
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001571162&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001571077&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=DEFZZZ&jc=0001571404&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=DEFZZZ&jc=0001571403&ec=DEFZZZ
