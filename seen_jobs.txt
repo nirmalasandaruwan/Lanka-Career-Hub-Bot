@@ -935,3 +935,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001571133&
 https://xpress.jobs/jobs/view/350094/business-development-executive-it-services-xvintec-pvt-ltd
 https://xpress.jobs/jobs/view/353138/account-manager-royal-ceramics-lanka-plc
 https://www.plusinfo.lk/2026/11/transport-urban-development-ministry.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001571162&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001571077&ec=DEFZZZ
