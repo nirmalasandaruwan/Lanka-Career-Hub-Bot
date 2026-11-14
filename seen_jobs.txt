@@ -939,3 +939,6 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001571162&
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001571077&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=DEFZZZ&jc=0001571404&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=DEFZZZ&jc=0001571403&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000385&jc=0001571409&ec=0000000505
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001571405&ec=DEFZZZ
+https://www.plusinfo.lk/2026/11/ancl-lake-house-typesetter-job.html
