@@ -986,3 +986,9 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001573086&
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000492&jc=0001573085&ec=0000000661
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000502&jc=0001573092&ec=0000000682
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001573086&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001573485&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001573484&ec=DEFZZZ
+https://jobvacanciesinsl.blogspot.com/2026/11/hot-kitchen-vacancies-scope-cinemas-pvt.html
+https://jobvacanciesinsl.blogspot.com/2026/11/warehouse-officer-samson-manufactures.html
+https://jobvacanciesinsl.blogspot.com/2026/11/finance-associate-one-galle-face.html
+https://jobvacanciesinsl.blogspot.com/2026/11/hotel-vacancies-galle-face-hotel.html
