@@ -1044,3 +1044,8 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000039&jc=0001574
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000049&jc=0001574767&ec=0000000671
 https://www.plusinfo.lk/2026/11/industrial-development-board-idb-jobs.html
 https://www.plusinfo.lk/2026/11/northern-provincial-road-passenger.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001572325&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001570116&ec=DEFZZZ
+https://www.plusinfo.lk/2026/11/ceylon-electricity-board-ceb-jobs-2026_01433415293.html
+https://www.plusinfo.lk/2026/11/combined-drivers-appointment-list-open.html
+https://www.plusinfo.lk/2026/11/open-university-pgie-works-aide-job.html
