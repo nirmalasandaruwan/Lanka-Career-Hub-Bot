@@ -1040,3 +1040,7 @@ https://www.plusinfo.lk/2026/11/gampaha-wickramarachchi-university.html
 https://www.plusinfo.lk/2026/11/gift-voucher-application-for-migrant.html
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=2&ac=0000000421&jc=0001574410&ec=0000000555
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=3&ac=0000000421&jc=0001574409&ec=0000000555
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000039&jc=0001574768&ec=0000000039
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000049&jc=0001574767&ec=0000000671
+https://www.plusinfo.lk/2026/11/industrial-development-board-idb-jobs.html
+https://www.plusinfo.lk/2026/11/northern-provincial-road-passenger.html
