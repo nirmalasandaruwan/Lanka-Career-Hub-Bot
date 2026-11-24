@@ -1049,3 +1049,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001570116&
 https://www.plusinfo.lk/2026/11/ceylon-electricity-board-ceb-jobs-2026_01433415293.html
 https://www.plusinfo.lk/2026/11/combined-drivers-appointment-list-open.html
 https://www.plusinfo.lk/2026/11/open-university-pgie-works-aide-job.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000261&jc=0001574947&ec=0000000343
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001574904&ec=DEFZZZ
