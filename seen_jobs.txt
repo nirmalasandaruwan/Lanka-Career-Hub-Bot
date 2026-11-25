@@ -1073,3 +1073,5 @@ http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=0000000201&jc=0001575
 https://jobvacanciesinsl.blogspot.com/2026/11/intern-marketing-hemas-holdings-plc.html
 https://www.plusinfo.lk/2026/11/sampath-bank-trainee-staff-assistants.html
 https://www.rajayejobs.com/2026/11/hydrological-survey-assistant-open.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001575387&ec=DEFZZZ
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001575386&ec=DEFZZZ
