@@ -1088,3 +1088,5 @@ https://www.plusinfo.lk/2026/11/prisons-department-counseling-officers.html
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001575870&ec=DEFZZZ
 http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001575868&ec=DEFZZZ
 https://www.plusinfo.lk/2026/11/ceylon-electricity-board-ceb-ntnsp.html
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=0000000094&jc=0001576040&ec=0000000111
+http://topjobs.lk/employer/JobAdvertismentServlet?rid=1&ac=DEFZZZ&jc=0001575915&ec=DEFZZZ
